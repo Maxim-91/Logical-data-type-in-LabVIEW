@@ -34,3 +34,14 @@ This example shows how logical decision-making can be implemented in LabVIEW usi
 ## Requirements
 
 - LabVIEW software to open and run the VI.
+
+## Code
+![image](https://github.com/user-attachments/assets/97682fc9-f223-4503-a177-ac519607b0e6) 
+![image](https://github.com/user-attachments/assets/c521d443-f46b-4d66-9cee-ec9e7c02b847)
+
+## The appearance of the running program
+
+![image](https://github.com/user-attachments/assets/2c2f1344-286e-431f-9956-418afda3cc33) 
+![image](https://github.com/user-attachments/assets/6371ffd6-2552-47db-a3db-e8774092459f)
+![image](https://github.com/user-attachments/assets/39a1c0da-5cb5-4f9f-bde2-29f68bb1d656)
+
